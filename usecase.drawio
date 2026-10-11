@@ -1,0 +1,115 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Страница-1" id="AblFkoV63z3AuWVMAdHs">
+    <mxGraphModel dx="1052" dy="562" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="tu1ram_B1KOi34n3aI1v-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="320" width="420" x="190" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="tu1ram_B1KOi34n3aI1v-2" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Сотрудник" vertex="1">
+          <mxGeometry height="60" width="30" x="60" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="tu1ram_B1KOi34n3aI1v-3" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Диспетчер" vertex="1">
+          <mxGeometry height="60" width="30" x="80" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="tu1ram_B1KOi34n3aI1v-4" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Университетское&lt;div&gt;&amp;nbsp;расписание&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="30" x="690" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="tu1ram_B1KOi34n3aI1v-5" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="100" x="220" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="tu1ram_B1KOi34n3aI1v-6" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="" vertex="1">
+          <mxGeometry height="50" width="110" x="440" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="tu1ram_B1KOi34n3aI1v-7" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="" vertex="1">
+          <mxGeometry height="50" width="100" x="340" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="tu1ram_B1KOi34n3aI1v-8" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="" vertex="1">
+          <mxGeometry height="50" width="120" x="430" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="tu1ram_B1KOi34n3aI1v-9" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="" vertex="1">
+          <mxGeometry height="40" width="100" x="260" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="tu1ram_B1KOi34n3aI1v-10" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="" vertex="1">
+          <mxGeometry height="40" width="100" x="220" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="tu1ram_B1KOi34n3aI1v-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Забронировать аудиторию" vertex="1">
+          <mxGeometry height="30" width="60" x="240" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="tu1ram_B1KOi34n3aI1v-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Посмотреть свободные аудитории" vertex="1">
+          <mxGeometry height="30" width="60" x="360" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="tu1ram_B1KOi34n3aI1v-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Отменить бронь" vertex="1">
+          <mxGeometry height="30" width="60" x="240" y="285" as="geometry" />
+        </mxCell>
+        <mxCell id="tu1ram_B1KOi34n3aI1v-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Заказать оборудвание" vertex="1">
+          <mxGeometry height="30" width="60" x="280" y="355" as="geometry" />
+        </mxCell>
+        <mxCell id="tu1ram_B1KOi34n3aI1v-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Сформировать отчет о простое аудитории" vertex="1">
+          <mxGeometry height="30" width="90" x="445" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="tu1ram_B1KOi34n3aI1v-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Проверить доступность аудитории" vertex="1">
+          <mxGeometry height="30" width="75" x="458" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="tu1ram_B1KOi34n3aI1v-21" edge="1" parent="1" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" value="">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <mxPoint x="320" y="154.66000000000008" as="sourcePoint" />
+            <mxPoint x="440" y="155" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tu1ram_B1KOi34n3aI1v-22" parent="1" style="text;whiteSpace=wrap;html=1;" value="include" vertex="1">
+          <mxGeometry height="30" width="47" x="343" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="tu1ram_B1KOi34n3aI1v-23" edge="1" parent="1" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" value="">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <mxPoint x="260" y="280" as="sourcePoint" />
+            <mxPoint x="270" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tu1ram_B1KOi34n3aI1v-24" parent="1" style="text;whiteSpace=wrap;html=1;" value="extend" vertex="1">
+          <mxGeometry height="20" width="47" x="273" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="tu1ram_B1KOi34n3aI1v-27" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="tu1ram_B1KOi34n3aI1v-5" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="90" y="190" as="sourcePoint" />
+            <mxPoint x="140" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tu1ram_B1KOi34n3aI1v-28" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="tu1ram_B1KOi34n3aI1v-7" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="90" y="190" as="sourcePoint" />
+            <mxPoint x="220" y="166" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tu1ram_B1KOi34n3aI1v-29" edge="1" parent="1" source="tu1ram_B1KOi34n3aI1v-9" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="110" y="315" as="sourcePoint" />
+            <mxPoint x="90" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tu1ram_B1KOi34n3aI1v-30" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="tu1ram_B1KOi34n3aI1v-10" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="120" y="380" as="sourcePoint" />
+            <mxPoint x="220" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tu1ram_B1KOi34n3aI1v-31" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="tu1ram_B1KOi34n3aI1v-8" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="120" y="380" as="sourcePoint" />
+            <mxPoint x="270" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tu1ram_B1KOi34n3aI1v-32" edge="1" parent="1" source="tu1ram_B1KOi34n3aI1v-7" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="550" y="190" as="sourcePoint" />
+            <mxPoint x="680" y="155" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tu1ram_B1KOi34n3aI1v-33" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Бронирование аудиторий" vertex="1">
+          <mxGeometry height="30" width="175" x="312.5" y="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
